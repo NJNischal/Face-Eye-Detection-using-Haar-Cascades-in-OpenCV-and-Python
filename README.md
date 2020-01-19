@@ -3,4 +3,4 @@ This is the code to detect eyes and face in a video using Haar cascades in OpenC
 
 ### This is a sample output of the code on a video:
 
-![](gigi.gif)
+![](gigi-gif.gif)
